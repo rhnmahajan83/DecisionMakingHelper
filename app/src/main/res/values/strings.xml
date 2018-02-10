@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Decision Making Helper</string>
+    <string-array name="questions">
+        <item>Question 1</item>
+        <item>Question 2</item>
+        <item>Question 3</item>
+        <item>Question 4</item>
+        <item>Question 5</item>
+        <item>Question 6</item>
+        <item>Question 7</item>
+
+    </string-array>
+</resources>
